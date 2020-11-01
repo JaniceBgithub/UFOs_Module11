@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project created a webpage from a database of UFO sitings and then filters informaiton based on the user inputs
+This project created a webpage from a database of UFO sitings and then filters information based on the user inputs
 
 ## Results
 
