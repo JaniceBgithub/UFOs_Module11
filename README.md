@@ -21,7 +21,7 @@ The main drawback of this code is that it will re-run a number of times after ea
 Improvements that could be made include:
 
 - Better error checking.  If the user inputs things in the wrong form or case, then no values will be found
-- It may be innefficient to keep the code in a javascript file - the data could be stored in a database and then only the entries of interest can be loaded onto the webpage 
+- It may be inefficient to keep the code in a javascript file - the data could be stored in a database and then only the entries of interest can be loaded onto the webpage 
 
 
 
